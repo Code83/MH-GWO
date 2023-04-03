@@ -1,0 +1,132 @@
+---------------------------------------------------------
+Problema a resolver: scp42
+Fitness transformado: [525.]
+Tiempo ejecución: 4.00977897644043 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [525.]
+Tiempo ejecución: 4.408323049545288 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [525.]
+Tiempo ejecución: 3.841726064682007 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [529.]
+Tiempo ejecución: 5.035854816436768 s
+Valor optimo： [529.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [525.]
+Tiempo ejecución: 4.0302417278289795 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 4.044810056686401 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [525.]
+Tiempo ejecución: 3.6506340503692627 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 3.741147756576538 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [528.]
+Tiempo ejecución: 3.8669798374176025 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [528.]
+Tiempo ejecución: 4.272923946380615 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [528.]
+Tiempo ejecución: 4.341160774230957 s
+Valor optimo： [528.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 3.9728548526763916 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 4.235217094421387 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 4.374815940856934 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 4.070976972579956 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [531.]
+Tiempo ejecución: 4.4443981647491455 s
+Valor optimo： [531.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [527.]
+Tiempo ejecución: 3.8826980590820312 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 4.263125896453857 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 3.934087038040161 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 64.0
+Fitness transformado: [527.]
+Tiempo ejecución: 4.5823516845703125 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [525.]
+Tiempo ejecución: 4.235275983810425 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 4.317873001098633 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [530.]
+Tiempo ejecución: 4.479483127593994 s
+Valor optimo： [528.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [525.]
+Tiempo ejecución: 3.962588310241699 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 4.587970972061157 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [525.]
+Tiempo ejecución: 3.782712936401367 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 4.383261203765869 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 4.283914804458618 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [528.]
+Tiempo ejecución: 3.9654111862182617 s
+Valor optimo： [528.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 4.283632040023804 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [528.]
+Tiempo ejecución: 4.433543920516968 s
+Valor optimo： [528.]
+Cantidad de columnas seleccionadas: 67.0
+###############################
+Problema: scp42
+Mayor Fitness: 531.0
+Menor Fitness: 525.0
+Promedio Fitness: 526.741935483871
+###############################

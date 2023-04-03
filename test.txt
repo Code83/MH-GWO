@@ -1,0 +1,660 @@
+---------------------------------------------------------
+Problema a resolver: scp41
+Fitness transformado: [433.]
+Tiempo ejecución: 6.003841161727905 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 5.844382047653198 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 6.541667222976685 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 7.216588735580444 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 6.869637966156006 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 6.54186487197876 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 6.608753204345703 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 6.183728933334351 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 6.925613164901733 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 5.876463890075684 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 6.289395809173584 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 5.918212890625 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 7.374486207962036 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 12.987858057022095 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 7.022449254989624 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 8.125651359558105 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 8.329869031906128 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [434.]
+Tiempo ejecución: 9.269996166229248 s
+Valor optimo： [434.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 9.524708032608032 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 9.642772197723389 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 7.834972143173218 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 9.137875080108643 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 9.136673212051392 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 8.40833592414856 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 8.077880144119263 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 7.189840793609619 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 9.082097053527832 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 7.701581954956055 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 10.3160719871521 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 10.127208948135376 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+Fitness transformado: [433.]
+Tiempo ejecución: 7.371741056442261 s
+Valor optimo： [433.]
+Cantidad de columnas seleccionadas: 71.0
+###############################
+Problema: scp41
+Mayor Fitness: 434.0
+Menor Fitness: 433.0
+Promedio Fitness: 433.03225806451616
+###############################
+---------------------------------------------------------
+Problema a resolver: scp42
+Fitness transformado: [527.]
+Tiempo ejecución: 19.228737831115723 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [525.]
+Tiempo ejecución: 10.439515829086304 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [525.]
+Tiempo ejecución: 6.650179147720337 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [525.]
+Tiempo ejecución: 5.898519039154053 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 7.009217023849487 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [525.]
+Tiempo ejecución: 7.095568895339966 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 11.850497007369995 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 8.970536231994629 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [525.]
+Tiempo ejecución: 6.692728042602539 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 6.811482191085815 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [528.]
+Tiempo ejecución: 6.95622992515564 s
+Valor optimo： [528.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [527.]
+Tiempo ejecución: 7.1578240394592285 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [525.]
+Tiempo ejecución: 6.442531108856201 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 6.960252046585083 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 8.192950010299683 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 11.456853151321411 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 5.994731903076172 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [525.]
+Tiempo ejecución: 6.475999116897583 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 11.047239303588867 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 8.704005241394043 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 12.089301109313965 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 8.729631900787354 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [525.]
+Tiempo ejecución: 8.753894805908203 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [525.]
+Tiempo ejecución: 6.6881139278411865 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [527.]
+Tiempo ejecución: 5.969367980957031 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [527.]
+Tiempo ejecución: 6.0123701095581055 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [529.]
+Tiempo ejecución: 4.946232795715332 s
+Valor optimo： [527.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [525.]
+Tiempo ejecución: 7.403226852416992 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [525.]
+Tiempo ejecución: 9.922163009643555 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [525.]
+Tiempo ejecución: 9.480427026748657 s
+Valor optimo： [525.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [534.]
+Tiempo ejecución: 6.4935219287872314 s
+Valor optimo： [534.]
+Cantidad de columnas seleccionadas: 68.0
+###############################
+Problema: scp42
+Mayor Fitness: 534.0
+Menor Fitness: 525.0
+Promedio Fitness: 526.483870967742
+###############################
+---------------------------------------------------------
+Problema a resolver: scp51
+Fitness transformado: [268.]
+Tiempo ejecución: 11.221136093139648 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [269.]
+Tiempo ejecución: 12.04857611656189 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [268.]
+Tiempo ejecución: 7.5068910121917725 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [268.]
+Tiempo ejecución: 9.456341981887817 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [268.]
+Tiempo ejecución: 10.428076982498169 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [271.]
+Tiempo ejecución: 11.511273860931396 s
+Valor optimo： [270.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [269.]
+Tiempo ejecución: 10.102865219116211 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [269.]
+Tiempo ejecución: 9.636471033096313 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [268.]
+Tiempo ejecución: 12.124592781066895 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [268.]
+Tiempo ejecución: 12.502242088317871 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [268.]
+Tiempo ejecución: 8.91162896156311 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [269.]
+Tiempo ejecución: 11.713432788848877 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 70.0
+Fitness transformado: [269.]
+Tiempo ejecución: 18.40553307533264 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [269.]
+Tiempo ejecución: 15.288751125335693 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [268.]
+Tiempo ejecución: 17.975170850753784 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [269.]
+Tiempo ejecución: 10.019641876220703 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 70.0
+Fitness transformado: [268.]
+Tiempo ejecución: 9.29505181312561 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [269.]
+Tiempo ejecución: 10.042821884155273 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 70.0
+Fitness transformado: [268.]
+Tiempo ejecución: 7.249766826629639 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [269.]
+Tiempo ejecución: 8.632936954498291 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [269.]
+Tiempo ejecución: 9.950094223022461 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [269.]
+Tiempo ejecución: 9.605036973953247 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 70.0
+Fitness transformado: [269.]
+Tiempo ejecución: 7.811759948730469 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 70.0
+Fitness transformado: [267.]
+Tiempo ejecución: 7.689327001571655 s
+Valor optimo： [267.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [268.]
+Tiempo ejecución: 10.696059226989746 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [269.]
+Tiempo ejecución: 10.172538757324219 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [268.]
+Tiempo ejecución: 9.122246980667114 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [268.]
+Tiempo ejecución: 6.8723061084747314 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [267.]
+Tiempo ejecución: 8.708714962005615 s
+Valor optimo： [267.]
+Cantidad de columnas seleccionadas: 69.0
+Fitness transformado: [269.]
+Tiempo ejecución: 7.878684043884277 s
+Valor optimo： [269.]
+Cantidad de columnas seleccionadas: 70.0
+Fitness transformado: [268.]
+Tiempo ejecución: 7.801296949386597 s
+Valor optimo： [268.]
+Cantidad de columnas seleccionadas: 69.0
+###############################
+Problema: scp51
+Mayor Fitness: 270.0
+Menor Fitness: 267.0
+Promedio Fitness: 268.4516129032258
+###############################
+---------------------------------------------------------
+Problema a resolver: scp52
+Fitness transformado: [323.]
+Tiempo ejecución: 8.268253087997437 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 68.0
+Fitness transformado: [321.]
+Tiempo ejecución: 8.384491205215454 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [318.]
+Tiempo ejecución: 7.279221057891846 s
+Valor optimo： [318.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [323.]
+Tiempo ejecución: 7.6662278175354 s
+Valor optimo： [323.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [321.]
+Tiempo ejecución: 7.19441294670105 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [321.]
+Tiempo ejecución: 7.550202131271362 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [321.]
+Tiempo ejecución: 6.786599159240723 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [324.]
+Tiempo ejecución: 7.129191160202026 s
+Valor optimo： [323.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [323.]
+Tiempo ejecución: 8.658827066421509 s
+Valor optimo： [323.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [323.]
+Tiempo ejecución: 7.714066028594971 s
+Valor optimo： [323.]
+Cantidad de columnas seleccionadas: 70.0
+Fitness transformado: [321.]
+Tiempo ejecución: 7.7789130210876465 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [321.]
+Tiempo ejecución: 7.53761887550354 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [318.]
+Tiempo ejecución: 7.422568082809448 s
+Valor optimo： [318.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [321.]
+Tiempo ejecución: 7.596437931060791 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [324.]
+Tiempo ejecución: 7.5884740352630615 s
+Valor optimo： [324.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [320.]
+Tiempo ejecución: 6.6587278842926025 s
+Valor optimo： [320.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [321.]
+Tiempo ejecución: 8.438872814178467 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [321.]
+Tiempo ejecución: 9.915687799453735 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [323.]
+Tiempo ejecución: 8.122493982315063 s
+Valor optimo： [323.]
+Cantidad de columnas seleccionadas: 68.0
+Fitness transformado: [321.]
+Tiempo ejecución: 9.29780888557434 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [316.]
+Tiempo ejecución: 7.756554841995239 s
+Valor optimo： [316.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [322.]
+Tiempo ejecución: 9.676322937011719 s
+Valor optimo： [322.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [321.]
+Tiempo ejecución: 9.132465124130249 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [322.]
+Tiempo ejecución: 9.905970811843872 s
+Valor optimo： [322.]
+Cantidad de columnas seleccionadas: 68.0
+Fitness transformado: [323.]
+Tiempo ejecución: 8.235387802124023 s
+Valor optimo： [323.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [321.]
+Tiempo ejecución: 13.417626142501831 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [322.]
+Tiempo ejecución: 23.093869924545288 s
+Valor optimo： [322.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [318.]
+Tiempo ejecución: 6.009353876113892 s
+Valor optimo： [318.]
+Cantidad de columnas seleccionadas: 65.0
+Fitness transformado: [322.]
+Tiempo ejecución: 7.600841045379639 s
+Valor optimo： [322.]
+Cantidad de columnas seleccionadas: 66.0
+Fitness transformado: [321.]
+Tiempo ejecución: 10.110877990722656 s
+Valor optimo： [321.]
+Cantidad de columnas seleccionadas: 67.0
+Fitness transformado: [322.]
+Tiempo ejecución: 7.801887035369873 s
+Valor optimo： [322.]
+Cantidad de columnas seleccionadas: 66.0
+###############################
+Problema: scp52
+Mayor Fitness: 324.0
+Menor Fitness: 316.0
+Promedio Fitness: 321.16129032258067
+###############################
+---------------------------------------------------------
+Problema a resolver: scp63
+Fitness transformado: [149.]
+Tiempo ejecución: 4.779153108596802 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [149.]
+Tiempo ejecución: 5.002366065979004 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 37.0
+Fitness transformado: [149.]
+Tiempo ejecución: 4.145709991455078 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [148.]
+Tiempo ejecución: 4.153579950332642 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [148.]
+Tiempo ejecución: 4.517751932144165 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [149.]
+Tiempo ejecución: 3.862165927886963 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 37.0
+Fitness transformado: [148.]
+Tiempo ejecución: 3.1417181491851807 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 35.0
+Fitness transformado: [148.]
+Tiempo ejecución: 3.9067509174346924 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 36.0
+Fitness transformado: [148.]
+Tiempo ejecución: 3.5713489055633545 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 36.0
+Fitness transformado: [151.]
+Tiempo ejecución: 4.21461296081543 s
+Valor optimo： [151.]
+Cantidad de columnas seleccionadas: 39.0
+Fitness transformado: [149.]
+Tiempo ejecución: 4.755338907241821 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [149.]
+Tiempo ejecución: 3.8405330181121826 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [151.]
+Tiempo ejecución: 3.5325679779052734 s
+Valor optimo： [151.]
+Cantidad de columnas seleccionadas: 39.0
+Fitness transformado: [148.]
+Tiempo ejecución: 4.004104852676392 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [149.]
+Tiempo ejecución: 5.287751913070679 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [149.]
+Tiempo ejecución: 6.033602952957153 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 37.0
+Fitness transformado: [148.]
+Tiempo ejecución: 4.036416053771973 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 35.0
+Fitness transformado: [148.]
+Tiempo ejecución: 4.590314865112305 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [149.]
+Tiempo ejecución: 5.420702934265137 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [148.]
+Tiempo ejecución: 3.492647171020508 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 35.0
+Fitness transformado: [149.]
+Tiempo ejecución: 3.0919198989868164 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [148.]
+Tiempo ejecución: 3.95064115524292 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [148.]
+Tiempo ejecución: 4.095117092132568 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 36.0
+Fitness transformado: [151.]
+Tiempo ejecución: 4.8012309074401855 s
+Valor optimo： [151.]
+Cantidad de columnas seleccionadas: 39.0
+Fitness transformado: [148.]
+Tiempo ejecución: 4.785110950469971 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [149.]
+Tiempo ejecución: 4.33452296257019 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [149.]
+Tiempo ejecución: 4.397805213928223 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [149.]
+Tiempo ejecución: 5.233037948608398 s
+Valor optimo： [149.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [148.]
+Tiempo ejecución: 4.036780118942261 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 35.0
+Fitness transformado: [148.]
+Tiempo ejecución: 4.936493158340454 s
+Valor optimo： [148.]
+Cantidad de columnas seleccionadas: 38.0
+Fitness transformado: [152.]
+Tiempo ejecución: 4.84459924697876 s
+Valor optimo： [151.]
+Cantidad de columnas seleccionadas: 40.0
+###############################
+Problema: scp63
+Mayor Fitness: 151.0
+Menor Fitness: 148.0
+Promedio Fitness: 148.80645161290323
+###############################
